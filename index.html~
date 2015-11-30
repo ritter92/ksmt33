@@ -119,28 +119,44 @@
 	  </div>
 	  <div class="row">
 	    <a href="Wiki.html">
-	      <div class="col-lg-4 newline mouseover">
+	      <div class="col-lg-6 newline mouseover">
 	        <img class="img-circle" src="pictures/wiki_logo.png" alt="Wikipedia Search">
 	        <h2>Wikipedia Suche</h2>
 	        <p></p>
 	      </div>
 	    </a>
 	    <a href="profile.html">
-	      <div class="col-lg-4 newline mouseover">
+	      <div class="col-lg-6 newline mouseover">
 	        <img class="img-circle" src="pictures/profilbild_mini.png" alt="Profil Seite">
 	        <h2>Mein Profil</h2>
 	        <p></p>
 	      </div>
 	    </a>
+	  </div>
+	  <div class="row">
 	    <a href="Wiki.html">
-	      <div class="col-lg-4 newline mouseover">
+	      <div class="col-lg-6 newline mouseover">
 	        <img class="img-circle" src="pictures/*.png" alt="Pull Request">
-	        <h2>GitHub Pull Request</h2>
+	        <h2>GitHub Pull Request my Website</h2>
+	        <p></p>
+	      </div>
+	    </a>
+	    <a href="Wiki.html">
+	      <div class="col-lg-6 newline mouseover">
+	        <img class="img-circle" src="pictures/*.png" alt="Pull Request">
+	        <h2>GitHub Pull Request Reviewer</h2>
 	        <p></p>
 	      </div>
 	    </a>
 	  </div>
+	  <div class="row">
+	    <iframe width="420" height="315" src="https://www.youtube.com/watch?v=DPLUmFRXDqw" frameborder="0" allowfullscreen></iframe>
+	  </div>
 	</div>
+
+	
+
+
 	<a href="http://wave.webaim.org/" target="_blank">
 	  <img src="pictures/wcag2AAA.png" alt="wcag AAA banner">
 	</a>
